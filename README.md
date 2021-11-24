@@ -1,5 +1,7 @@
 # FIT5148 - Big data management and processing
 
+## Final Score: 89
+
 Data engineering is about developing the software (and hardware) infrastructure to support data science. This unit introduces software tools and techniques for data engineering, but not hardware. It will cover:
 
 - introduction to big data processing, covering volume, variety, and velocity;
